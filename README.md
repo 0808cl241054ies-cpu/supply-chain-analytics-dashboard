@@ -18,7 +18,7 @@ Tech Stack
 How to Run Locally
 
 Clone the repository:
-git clone https://github.com/Deepesh-Sharma/supply-chain-analytics-dashboard.git
+git clone(https://supply-chain-analytics-dashboard-l84j3e6vwpjq3mbhkpbzyt.streamlit.app/)
 
 Install required packages:
 pip install -r requirements.txt
